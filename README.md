@@ -60,18 +60,36 @@ Passionate about coding and Self-motivated with a keen interest in building user
       <a href="https://twitter.com/vikas9779" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_M9gfMxKuhBLC0XylH90Q-0F50zKBlTcKMA&usqp=CAU" width="80" height="87"  alt="Twitter" />
        
 
-
-     📊 Github stats
-   
-   <!--  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula    -->
-
-<p align="center"><img align="center" style="margin-left:300px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas-9797&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="vikas-9797" /></p>               
-        
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas-9797&show_icons=true&locale=en&theme=gruvbox" alt="vikas-9797" /></p>
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-9797&theme=gruvbox" alt="vikas-9797" /></p>
-
-               
+<h3 align="left> 📊 My Github Stats</h3>
+<br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vikas-9797&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-9797" />
+<a href="https://github.com/vikas-9797/?tab=followers"><img src="https://img.shields.io/github/followers/vikas-9797?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+  <br/>
   
+
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas-9797&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="vikas-9797" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-9797&layout=compact&border_radius=0" alt="vikas-9797" height="139" />
+</p>
+
+<br/>
+
+ <div align="left">
+ <h3>ℹ️ &nbsp;Github Info</h3>
+ <hr/>
+ 	
+<p align="center">
+    <a href="https://github.com/vikas-9797/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vikas Yadav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-9797&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+  
+<p align="center"<a href="#"><img alt="Vikas" src="https://activity-graph.herokuapp.com/graph?username=vikas-9797&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+
+<p align="center"> <a href="https://github.com/vikas-9797"><img src="https://github-profile-trophy.vercel.app/?username=vikas-9797&margin-w=5&theme=radical" alt="Vikas" /></a> </p>
+
+ </div>
      
 
      
