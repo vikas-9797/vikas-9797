@@ -1,5 +1,125 @@
+![MasterHead](https://imgs.search.brave.com/oZjW8wbgQnJEzhSTuvYvlgoxrDR5UkUstp9wrUnuk2k/rs:fit:1200:626:1/g:ce/aHR0cHM6Ly9tZWRp/YS1mYXN0bHkuaGFj/a2VyZWFydGguY29t/L21lZGlhL2hhY2th/dGhvbi9zYXBpZW50/LWphdmEtZGV2ZWxv/cGVyLWhpcmluZy0y/MDE5L2ltYWdlcy8z/ZDZlNGVlNDllLWhh/Y2tlci5naWY.gif)
+<!----------------------------------- Heading Section ------------------------------------>
+<h1 align="center">
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    I'm Chova Ram Sinha
+</h1>
+
+<!----------------------------------- About Section ------------------------------------>
+
+<h3 align="center">
+   <i> Aspiring Java Banckend Developer</i>
+</h3
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChovaRamSinha&label=Profile%20views&color=0e75b6&style=flat" alt="ChovaRamSinha" /> </p>
+
+ <p align="center">I'm a computer enthusiast 💻.  I love to explore emerging web technologies. I'm skilled in the Java, Spring-Boot. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing cricket 🏏 . I ♥️ talking about creative coding. 💬 Ask me about **SpringBoot, Hibernate, MySql, Java, AWS** </p>
+
+- 📫 How to reach me **chovaramkwd@gmail.com**
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/12ROxKoyWDKuoYVMBMILM30oDLUvJGMlF/view?usp=sharing" target="blank"> Resume</a>
+</p>
+
+<br>
+<!----------------------------------- Tech Stack Section ------------------------------------>
+
+### <h2><i>👨🏻‍💻 Tech Stack & Languages</i></h2>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+
+
+
+### <h2><i>🚀 Libraries & Frameworks</i></h2>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=852100&label=" alt=""/></a>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&color=00d09c&label=" alt="" /></a>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=000030&label=" alt=""/></a>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=400030&label=" alt=""/></a>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Servlets&color=700030&label=" alt=""/></a>
+
+
+### <h2><i>💻 Databases</i></h2>
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+ 
+ 
+ 
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2><i>Let's Connect</i></h2>
+
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/chova-ram-sinha-5845a6181/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
+    </a>
+    <a href="https://twitter.com/ss4033167">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ss4033167" />
+    </a>
+    <a href="https://tubular-tulumba-3da91a.netlify.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://tubular-tulumba-3da91a.netlify.app/" />
+    </a>
+    <a title="chovaramkwd@gmail.com" href="mailto:chovaramkwd@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chovaramkwd@gmail.com" />
+    </a>
+</p>
+
+<br>
+
+
+
+
+<!----------------------------------- Star Section ------------------------------------>
+
+ <h2><i>My GitHub Stats</i></h2>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramcr32&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="ChovaRamSinha" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramcr32&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="ChovaRamSinha" height="139"/>
+</p>
+<br>
+  
+ <!--------------------------------------------------------------------------------> 
+  
+ ## :trophy: Recent GitHub Activity
+  <br/>
+   <a href="https://github.com/Ramcr32"><img alt="Ramcr32's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ramcr32&custom_title=ChovaRamSinha's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
+
+
+
+<!----------------------------------- Top Repository Section ------------------------------------>
+
+<h2><i>Top Repositories</i></h2>
+
+
+<p>
+    <a href="https://github.com/Ramcr32/Cab-Booking-Application">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramcr32&repo=Cab-Booking-Application&locale=en&border_radius=0&theme=dark" alt="ChovaRamSinha" />
+    </a>
+    <a href="https://github.com/Ramcr32/uboric-website-clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramcr32&repo=uboric-website-clone&locale=en&border_radius=0&theme=dark" alt="ChovaRamSinha" />
+    </a>
+   
+  
+</p>
+
+
+
+
+
+
+
 <!--
-**vikas-9797/vikas-9797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*ChovaRamSinha/Ramcr32* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,79 +139,16 @@ Here are some ideas to get you started:
 
 
 
-Hi 👋 My name is Vikas Yadav
-==============================
-
-Im a Java Backend Developer
----------------------------
-Passionate about coding and Self-motivated with a keen interest in building user-centric products I bring passion, determination, and loyalty to any role I undertake. My spirit animal is definitely a Lion.
-
-*   🌍  I'm based in PRATAPGARH, UTTAR PRADESH.
-*   🖥️  See my portfolio at [MyPortfolio](https://vikas-9797.github.io/)
-*   ✉️  You can contact me at [vika.yadav222@gmail.com](mailto:vika.yadav222@gmail.com)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-9797&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-9797" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas-9797" alt="vikas-9797" /></a> </p>
-
-<img src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" width="900" height="600" alt="Java" />
 
 
-💻 Skills 
-    
-
-   <p align="left">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="100" height="100" alt="Java" />
-  <img src="https://user-images.githubusercontent.com/58034490/141354056-7bf12bcc-6ebc-4104-bd4e-d5e24db293f5.gif" width="100" height="100" alt="Java" />
-  <img src="https://user-images.githubusercontent.com/58034490/141353058-36c5ef97-420a-4bcf-b871-7ef1cc262e26.png" width="100" height="100" alt="Java" />
-  <img src="https://miro.medium.com/max/1400/0*Rplsn6TJYurdICZB.jpg" width="100" height="100" alt="Java" />
-  <img src="https://user-images.githubusercontent.com/58034490/141354818-8c186650-e4fa-4463-9690-e8f91893dfa2.gif" width="100" height="100" alt="Java" />
-  <img src="https://user-images.githubusercontent.com/58034490/141353054-2350801b-ca74-40c5-87b8-c8e3cb909928.png" width="100" height="100" alt="Java" />  
-  <img src="https://user-images.githubusercontent.com/58034490/141353050-4624e02a-84d4-4a97-a533-fd8bae9fd418.png" width="100" height="100" alt="Java" />
-  <img src="https://user-images.githubusercontent.com/58034490/141354514-b1d119b6-c960-4eb1-8178-12efd9a1fc83.gif" width="100" height="100" alt="Java" />
-  <img src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3.jpg" width="100" height="100" alt="Java" />
-  
-   <!--This img tag works  <img src="" width="900" height="600" alt="Java" />  -->
-          
-      📫 How to reach me:  
-    
-   <a href="https://www.linkedin.com/in/vikas222" target="_blank" rel="noreferrer"><img src="https://180dc.org/wp-content/uploads/2020/01/Linkedin-logo-1-550x550-300x300.png" width="100" height="100" alt="LinkedIn" />
-   
-      <a href="https://twitter.com/vikas9779" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_M9gfMxKuhBLC0XylH90Q-0F50zKBlTcKMA&usqp=CAU" width="80" height="87"  alt="Twitter" />
-       
-
-<h3 align="left> 📊 My Github Stats</h3>
-<br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vikas-9797&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-9797" />
-<a href="https://github.com/vikas-9797/?tab=followers"><img src="https://img.shields.io/github/followers/vikas-9797?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-  <br/>
-  
 
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas-9797&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="vikas-9797" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-9797&layout=compact&border_radius=0" alt="vikas-9797" height="139" />
-</p>
 
-<br/>
 
- <div align="left">
- <h3>ℹ️ &nbsp;Github Info</h3>
- <hr/>
- 	
-<p align="center">
-    <a href="https://github.com/vikas-9797/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vikas Yadav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-9797&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-  
-<p align="center"<a href="#"><img alt="Vikas" src="https://activity-graph.herokuapp.com/graph?username=vikas-9797&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
-<p align="center"> <a href="https://github.com/vikas-9797"><img src="https://github-profile-trophy.vercel.app/?username=vikas-9797&margin-w=5&theme=radical" alt="Vikas" /></a> </p>
 
- </div>
-     
 
-     
-  
-               
+
+
+
+
