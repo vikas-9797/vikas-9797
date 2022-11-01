@@ -87,7 +87,7 @@
   
  ## :trophy: Recent GitHub Activity
   <br/>
-   <a href="https://github.com/vikas-9797"><img alt="Vikas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vikas-9797&custom_title=Vikas Yadav's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/vikas-9797"><img alt="Vikas-9797's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vikas-9797&custom_title=Vikas Yadav's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -118,7 +118,7 @@
 
 
 <!--
-*ChovaRamSinha/Ramcr32* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Vikas Yadav/vikas-9797* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
