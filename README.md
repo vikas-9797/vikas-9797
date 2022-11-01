@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **vika.yadav222@gmail.com**
 
-- 📄 Know about my experiences <a href="" target="blank"> Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1GaT2sxOcE0v0YDGYQNLBonHsWD4VDICK/view?usp=sharing" target="blank"> Resume</a>
 </p>
 
 <br>
