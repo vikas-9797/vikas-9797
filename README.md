@@ -75,11 +75,11 @@
 
 <!----------------------------------- Star Section ------------------------------------>
 
- <h2><i>My GitHub Stats</i></h2>
+  <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas-9797&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="vikas yadav" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-9797&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="vikas" height="139"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramcr32&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="ChovaRamSinha" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramcr32&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="ChovaRamSinha" height="139"/>
 </p>
 <br>
   
@@ -87,7 +87,7 @@
   
  ## :trophy: Recent GitHub Activity
   <br/>
-   <a href="https://github.com/vikas-9797"><img alt="Vikas-9797's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vikas-9797&custom_title=Vikas Yadav's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Ramcr32"><img alt="Ramcr32's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ramcr32&custom_title=ChovaRamSinha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -97,7 +97,7 @@
 
 <!----------------------------------- Top Repository Section ------------------------------------>
 
-<h2><i>Top Repositories</i></h2>
+<!-- <h2><i>Top Repositories</i></h2>
 
 
 <p>
@@ -110,7 +110,7 @@
    
   
 </p>
-
+ -->
 
 
 
