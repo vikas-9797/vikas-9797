@@ -75,8 +75,5 @@ Passionate about coding and Self-motivated with a keen interest in building user
      
 
      
-     📈 Activity Graph
-    
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Vikas's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=vikas-9797&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-
+  
                
