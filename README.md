@@ -1,5 +1,5 @@
 <!--
-**mohitagrawal22/mohitagrawal22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vikas-9797/vikas-9797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,21 +19,20 @@ Here are some ideas to get you started:
 
 
 
-Hi 👋 My name is Mohit Agrawal
+Hi 👋 My name is Vikas Yadav
 ==============================
 
 Im a Java Backend Developer
 ---------------------------
 Passionate about coding and Self-motivated with a keen interest in building user-centric products I bring passion, determination, and loyalty to any role I undertake. My spirit animal is definitely a Lion.
 
-*   🌍  I'm based in Mumbai, India.
-*   🖥️  See my portfolio at [MyPortfolio](https://mohitagrawal22.github.io/)
-*   ✉️  You can contact me at [agrawalmohitam@gmail.com](mailto:agrawalmohitam@gmail.com)
-*   ⚡  Apart from coding, I Like Hip-hop culture/music, Driving.
+*   🌍  I'm based in PRATAPGARH, UTTAR PRADESH.
+*   🖥️  See my portfolio at [MyPortfolio](https://vikas-9797.github.io/)
+*   ✉️  You can contact me at [vika.yadav222@gmail.com](mailto:vika.yadav222@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitagrawal22&label=Profile%20views&color=0e75b6&style=flat" alt="mohitagrawal22" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-9797&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-9797" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitagrawal22" alt="mohitagrawal22" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas-9797" alt="vikas-9797" /></a> </p>
 
 <img src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" width="900" height="600" alt="Java" />
 
@@ -55,34 +54,29 @@ Passionate about coding and Self-motivated with a keen interest in building user
    <!--This img tag works  <img src="" width="900" height="600" alt="Java" />  -->
           
       📫 How to reach me:  
-   <a href="https://www.linkedin.com/in/mohit-agrawal-412a21175/" target="_blank" rel="noreferrer"><img src="https://180dc.org/wp-content/uploads/2020/01/Linkedin-logo-1-550x550-300x300.png" width="100" height="100" alt="LinkedIn" />
-     <a href="http://www.medium.com/@agrawalmohitam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="90" height="120" alt="Medium" />
-          <a href="https://twitter.com/Mohitagrawal105" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_M9gfMxKuhBLC0XylH90Q-0F50zKBlTcKMA&usqp=CAU" width="80" height="87"  alt="Twitter" /><a href="https://www.instagram.com/mohitagrawal22/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="80" height="87"  alt="Twitter" /> </a>
+    
+   <a href="https://www.linkedin.com/in/vikas222" target="_blank" rel="noreferrer"><img src="https://180dc.org/wp-content/uploads/2020/01/Linkedin-logo-1-550x550-300x300.png" width="100" height="100" alt="LinkedIn" />
+   
+      <a href="https://twitter.com/vikas9779" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_M9gfMxKuhBLC0XylH90Q-0F50zKBlTcKMA&usqp=CAU" width="80" height="87"  alt="Twitter" />
+       
 
 
      📊 Github stats
    
    <!--  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula    -->
 
-<p align="center"><img align="center" style="margin-left:300px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitagrawal22&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="mohitagrawal22" /></p>               
+<p align="center"><img align="center" style="margin-left:300px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas-9797&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="vikas-9797" /></p>               
         
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitagrawal22&show_icons=true&locale=en&theme=gruvbox" alt="mohitagrawal22" /></p>
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitagrawal22&theme=gruvbox" alt="mohitagrawal22" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas-9797&show_icons=true&locale=en&theme=gruvbox" alt="vikas-9797" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-9797&theme=gruvbox" alt="vikas-9797" /></p>
 
                
-             
-  <!--  [    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitagrawal22&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=mohitagrawal22&theme=gruvbox")  -->
-
-
- <!--  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitagrawal22&theme=gruvbox)](https://git.io/streak-stats)  -->
-
-     
- <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitagrawal22&theme=gruvbox)](https://github.com/mohitagrawal22/github-readme-stats)  -->
+  
      
 
      
      📈 Activity Graph
     
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=mohitagrawal22&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Vikas's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=vikas-9797&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
                
