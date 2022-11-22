@@ -78,6 +78,7 @@
   <h2><i>My GitHub Stats</i></h2>
 
 <p>
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-9797&theme=indian,contribs&border_radius=0&locale=en&theme=dark" alt="Vikas" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas-9797&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Vikas" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-9797&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Vikas" height="139"/>
 </p>
